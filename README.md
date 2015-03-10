@@ -1,6 +1,6 @@
 # SistemasDistribuidos
 --------
-Aquí se guardará todas las prácticas de SD
+Aquí se guardará todas las prácticas de Sistemas Distribuidos
 --------
 
 Fin del Readme
