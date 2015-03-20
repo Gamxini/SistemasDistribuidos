@@ -1,3 +1,4 @@
+#Declaración de funciones
 def leertxt(nombre):
     f=file(nombre, "r")
     list_poke =f.read().split()
@@ -35,7 +36,8 @@ def operator_mayor (lista1, lista2):
 
 def primerCaracter(palabra):
     return palabra[0]
-
+    
+#Comienzo del Programa principal
 list_poke = leertxt("pokemon.txt")
 pokedex_nacional = list_comb(list_poke)
 print "El tamano total de tu pokedex es de "
