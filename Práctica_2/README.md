@@ -13,6 +13,7 @@ Lo haremos, desarrollando el ejercicio de la siguiente manera:
 ####![center](http://gpxplus.net/files/images/achievements/ProfessorOak.png) Primera arte del algoritmo:
 - Tendremos que reconocer el archivo txt, en nuestro caso *(pokemon.txt)*, para recolectar todos los elementos de los pokemons citados.
 - Almacenaremos todos los elementos en una lista, a fin de una mejor disponibilidad por parte del programador.
+
 ####![center](http://gpxplus.net/files/images/achievements/ProfessorOak.png) Segunda parte del algoritmo:
 - Desarrollaremos las funciónes auxiliares, que nos servirán de ayuda a la hora de hayar la mayor combinación:
 	- Función **buscar**: Esta función nos devolverá un booleano para comprobar que la palabra que deseamos buscar, se encuentra dentro de la lista pedida.
