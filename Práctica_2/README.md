@@ -10,7 +10,7 @@ Vamos a desarrollar el programa de Python que nos permita, a partir de una lista
 ####¿Qué haremos para desarrollar dicho ejercicio?
 Lo haremos desarrollando el ejercicio de la siguiente manera:
 
-####![center](http://gpxplus.net/files/images/achievements/ProfessorOak.png) Primera arte del algoritmo:
+####![center](http://gpxplus.net/files/images/achievements/ProfessorOak.png) Primera parte del algoritmo:
 - Tendremos que reconocer el archivo txt, en nuestro caso *(pokemon.txt)*, para recolectar todos los elementos de los pokemons citados.
 - Almacenaremos todos los elementos en una lista, a fin de una mejor disponibilidad por parte del programador.
 
