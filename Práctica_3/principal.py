@@ -32,11 +32,11 @@ def mapview():
         identifier="view-side", lat=40.45, lng=3.75, markers=lista, style="height:600px;width:600px;margin:0", zoom=4
     )
     return render_template('template.html', mymap=mymap)
-
-file = open('viva.png','rb')
-data = file.read()
-r = api.request('statuses/update_with_media', {'status':'VIVA!'}, {'media[]':data})
-print(r.status_code)
+#Por falta de tiempo no hemos terminado de implementar la subida con imágen adjunta
+#file = open('viva.png','rb')
+#data = file.read()
+#r = api.request('statuses/update_with_media', {'status':'VIVA!'}, {'media[]':data})
+#print(r.status_code)
 
 if __name__ == "__main__":
     app.run(debug=True)
