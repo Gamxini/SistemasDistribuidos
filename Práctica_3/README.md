@@ -4,11 +4,7 @@
 ####Práctica realizada por Antonio Gambín y Francisco Pastor
 - - -
 ###Enunciado
-Vamos a desarrollar   un   programa   en   Python,   que  
-revise   las   direcciones   (latitud   y   longitud)   de   los   tweets   que   cumplan   una   determinada   opción,   como   que   sea   el   más  
-actual,   que   corresponda   a   alguna   afición   (equipo   de  
-fútbol,   políticas..)   y   desplegar   esas   direcciones   en   un  
-mapa utilizando la extensión de ​ Flask ​ para Google Maps. 
+Vamos a desarrollar un programa en Python, que revise las direcciones (latitud y longitud) de los tweets que   cumplan una determinada opción, como que sea el más actual, que corresponda a alguna afición (equipo de fútbol,   políticas..) y desplegar esas direcciones en un mapa utilizando la extensión de ​ Flask ​ para Google Maps. 
 ---
 ####¿Qué haremos para desarrollar dicho ejercicio?
 Lo haremos desarrollando el ejercicio de la siguiente manera:
