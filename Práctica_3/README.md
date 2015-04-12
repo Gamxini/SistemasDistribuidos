@@ -19,5 +19,5 @@ Lo haremos desarrollando el ejercicio de la siguiente manera:
 ---
 Fin del Readme
 ---
-![center](https://d13yacurqjgara.cloudfront.net/users/76973/screenshots/615333/twitterfly.gif)
+####![center](https://d13yacurqjgara.cloudfront.net/users/76973/screenshots/615333/twitterfly.gif)
 
